@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_qrcode_info/static/css/main.f855e6bc.css",
+    "main.js": "/react_qrcode_info/static/js/main.9cc244f7.js",
+    "index.html": "/react_qrcode_info/index.html",
+    "main.f855e6bc.css.map": "/react_qrcode_info/static/css/main.f855e6bc.css.map",
+    "main.9cc244f7.js.map": "/react_qrcode_info/static/js/main.9cc244f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.9cc244f7.js"
+  ]
+}
